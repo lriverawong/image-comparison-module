@@ -1,0 +1,9 @@
+image1,image2,similar,elapsed
+testing/duck01.jpeg,testing/duck02.jpeg,0.0,0.008646011352539062
+testing/duck01.jpeg,testing/duck01.png,0.0,0.009925603866577148
+testing/duck01.jpeg,testing/duck03.jpeg,2.046646464646465,0.009428739547729492
+testing/leaf01.jpeg,testing/leaf02.jpeg,0.0,0.03826022148132324
+testing/leaf01.jpeg,testing/leaf03.png,,
+testing/leaf01.jpeg,testing/leaf03.jpeg,,
+testing/leaf01.jpeg,testing/leaf04.png,76.84053451851852,0.043541669845581055
+testing/duck01.jpeg,testing/leaf01.jpeg,-1,
